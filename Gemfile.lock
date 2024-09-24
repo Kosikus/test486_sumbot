@@ -53,7 +53,7 @@ PLATFORMS
 
 DEPENDENCIES
   dotenv
-  telegram-bot-ruby
+  telegram-bot-ruby (= 2.0)
 
 BUNDLED WITH
    2.5.19
