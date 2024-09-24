@@ -20,4 +20,4 @@ config/database.yml
 tmp/
 
 # разные файлы
-./run.bat
+run.bat
